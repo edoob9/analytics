@@ -2,6 +2,7 @@
 환경 : colab/jupyter-python
 
 심층신경망 -> 머신러닝/딥러닝
+MLP -> NN 
 
 <다루고자하는 데이터의 topic>
   1. 식물(농업)
